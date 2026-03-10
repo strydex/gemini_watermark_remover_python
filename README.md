@@ -1,13 +1,9 @@
 
 ## Features
 
-- ✅ **100% Client-side** - No backend, no server-side processing. Your data stays in your browser.
-- ✅ **Privacy-First** - Images are never uploaded to any server. Period.
 - ✅ **Mathematical Precision** - Based on the Reverse Alpha Blending formula, not "hallucinating" AI models.
 - ✅ **Auto-Detection** - Intelligent recognition of 48×48 or 96×96 watermark variants.
 - ✅ **User Friendly** - Simple drag-and-drop interface with instant processing.
-- ✅ **Cross-Platform** - Runs smoothly on all modern web browsers.
-
 
 <p>example images</p>
 
